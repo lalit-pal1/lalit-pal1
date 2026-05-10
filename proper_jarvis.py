@@ -28,7 +28,7 @@ import json
 
 MEMORY_FILE = "memory.json"
 
-GEMINI_API_KEY = "AIzaSyCWKnLE1NCRhww4Hi-M1lVbU4jAmeIhpPM"
+GEMINI_API_KEY = "..........................PM"
 gemini_client = genai.Client(api_key=GEMINI_API_KEY)
 
 def load_memory():
